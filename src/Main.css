@@ -18,6 +18,7 @@ li.dev-item{
 li.dev-item header{
  display: flex;
  flex-direction: row;
+ margin-left: 10px;
 }
 li.dev-item header .user-info{
   margin-top: 10px;
